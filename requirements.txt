@@ -3,3 +3,4 @@ langchain-google-genai
 pydantic
 pytest
 python-dotenv
+numpy
